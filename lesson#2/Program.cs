@@ -21,7 +21,7 @@ Console.WriteLine(sum2);
 
 Console.WriteLine("-----");
 
-double num4 = 5;
+double num4 = 5.5;
 double sum3 = num4 + num1;
 Console.WriteLine(sum3);
 
@@ -42,4 +42,10 @@ Console.WriteLine("-----");
 /*Деление.
 При делении операндов тип данных которых int, ответ будет только целочисленным. Однако, при делении в ответе возможно и дробное значение. Следовательно принимается тип данных double.
 */
+
+int qoutient = num1 / num2;
+Console.WriteLine(qoutient);
+Console.WriteLine("-----");
+double qoutient2 = num1 / num4;
+Console.WriteLine(qoutient2);
 
