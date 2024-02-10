@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, world!");
+﻿// Вывод текстового сообщения
+
+Console.WriteLine("Hello, world!");
