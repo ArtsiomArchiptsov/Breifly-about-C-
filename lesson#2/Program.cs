@@ -24,3 +24,17 @@ Console.WriteLine("-----");
 double num4 = 5;
 double sum3 = num4 + num1;
 Console.WriteLine(sum3);
+
+Console.WriteLine("-----");
+
+// Умножение 
+
+int multiplic = num1 * num2;
+long multiplic2 = num1 * num3;
+double multiplic3 = num1 * num4;
+Console.WriteLine(multiplic);
+Console.WriteLine("-----");
+Console.WriteLine(multiplic2);
+Console.WriteLine("-----");
+Console.WriteLine(multiplic3);
+Console.WriteLine("-----");
