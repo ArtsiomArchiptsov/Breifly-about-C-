@@ -32,6 +32,8 @@ Console.WriteLine("-----");
 int value = 100;
 Console.WriteLine(value);
 
+Console.WriteLine("-----");
+
 /* Основные Типы данных.
  
  Тип данных               |  Ключевое слово      | Диапазон значений
@@ -49,4 +51,11 @@ Console.WriteLine(value);
  Логический               |   bool               | False or True
 --------------------------------------------------------------------------------
 */
+
+double b = 5.5;
+char c = '?';
+bool d = true;
+Console.WriteLine(b);
+Console.WriteLine(c);
+Console.WriteLine(d);
 
