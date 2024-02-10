@@ -10,4 +10,10 @@ int num2 = 9;
 int sum = num1 + num2;
 Console.WriteLine(sum);
 
+Console.WriteLine("-----");
+
+long num3 = 4;
+long sum2 = num3 + num2;
+Console.WriteLine(sum2);
+
 
