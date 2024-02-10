@@ -12,8 +12,15 @@ Console.WriteLine(sum);
 
 Console.WriteLine("-----");
 
+/* Если используются значения с разными типами данных, то результату присваивается значение типа данных с большим диапазоном значений
+*/
+
 long num3 = 4;
 long sum2 = num3 + num2;
 Console.WriteLine(sum2);
 
+Console.WriteLine("-----");
 
+double num4 = 5;
+double sum3 = num4 + num1;
+Console.WriteLine(sum3);
